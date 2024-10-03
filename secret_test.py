@@ -10,3 +10,11 @@ Address: 1234 Elm Street, Springfield, IL, 62701, USA
 Date of Birth: 1990-05-15
 SSN: 123-45-6789
 Credit Card: 4111 1111 1111 1111 (VISA)
+Google Oauth key 092625-01234567890123456789abcdefghijKL.apps.googleusercontent.com
+092625-01234567890123456789abcdefghijKL.apps.googleusercontent.com
+AWS Access Key ID AKIAIOSFODNN7EXAMPLE
+Access key ID,Secret access key
+AKIAIOSFODNN7EXAMPLE,o2/+wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+AccesskeyID=>AKIAIOSFODNN7EXAMPLE
+AccesskeyID=>AKIAIOSFODNN7EXAMPLE1 
+AccesskeyID\=>\AKIADEEPFENCEEXAMPLE
